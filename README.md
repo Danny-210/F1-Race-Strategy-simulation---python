@@ -9,7 +9,7 @@ This is a data driven f1 race simulation and strategy tool built in python. This
 
 * Realistic tyre degradation - using quadratic formula
 * Realistic fuel burn off - car gets lighter/faster as fuel burns off late in the race
-* Fastest strategy search - iterates through thousands of possible race scenarios to work out the fastest race strategy
+* Fastest strategy search (monte carlo) - iterates through thousands of possible race scenarios to work out the fastest race strategy
 * Customisable race conditions - race length, lap time, tyre wear rate, tyre pace, driver pace, driver consistency etc
 * Puncture threshold - once the tyre has a puncture the laptimes reflect this
 
